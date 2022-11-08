@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
+CSIDS (pronounced SEE-sids) is a group of researchers who are dedicated to improving the quality of statistics used in modern day disease surveillance.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The founding team was responsible for developing and running the Norwegian Institute of Public Health’s automated surveillance platform (Sykdomspulsen) during the first three years of the COVID-19 pandemic.
